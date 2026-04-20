@@ -1,10 +1,14 @@
 class changePassword:
     def abc:
+<<<<<<< Updated upstream
   
+=======
+>>>>>>> Stashed changes
 
 
 
 
+<<<<<<< Updated upstream
 
 
 
@@ -13,3 +17,13 @@ class changePassword:
 123456
 abcdefg
 \sfaasfsaf
+=======
+331 story
+fsfsdfasafd
+fdfsadfadsfs
+sfsdfs
+asdf
+safsfas
+fasfasfsfasdfasfsafsf
+  
+>>>>>>> Stashed changes
