@@ -1,15 +1,5 @@
 class changePassword:
     def abc:
-<<<<<<< Updated upstream
-  
-=======
->>>>>>> Stashed changes
-
-
-
-
-<<<<<<< Updated upstream
-
 
 
 
@@ -25,5 +15,4 @@ sfsdfs
 asdf
 safsfas
 fasfasfsfasdfasfsafsf
-  
->>>>>>> Stashed changes
+  bcdddddddddddddddddddddddddddddddddddddddddd
