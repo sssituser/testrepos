@@ -1,7 +1,0 @@
-Hi iam Second develoer , 
-
-class Regisger:
-  def register():
-    .....
-def RegiterTest:
-    def......
